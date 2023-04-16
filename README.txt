@@ -1,0 +1,1 @@
+Just download the images with the program and keep them in the same folder 
